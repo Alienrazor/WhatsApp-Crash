@@ -3,9 +3,9 @@
 # Crash Whatsapp with Termux.
 
 
-Note : Tool is Made of Educational Purposes only. 
-Please try not to harm anyone device 
-its For Fun Purpose Not For Revenge
+    Note : Tool is Made of Educational Purposes only. 
+           Please try not to harm anyone device 
+           its For Fun Purpose Not For Revenge
     
 ```
 apt update && apt upgrade -y
